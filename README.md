@@ -1,1 +1,1 @@
-Tutorial Typescript
+Tutorial Typescript Zaman Now
