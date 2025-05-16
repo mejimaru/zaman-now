@@ -1,1 +1,1 @@
-Tutorial Typescript Zaman Now
+Tutorial Typescript Zaman Now Banget
